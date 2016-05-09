@@ -1,4 +1,4 @@
-#About HTML
+Alt-H1About HTML
 HTML is a markup language for describing web pages. <br> 
 
 1) HTML stands for Hyper Text Markup Language <br>
