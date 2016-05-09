@@ -1,4 +1,4 @@
-###About HTML
+#About HTML
 HTML is a markup language for describing web pages.
 
 1) HTML stands for Hyper Text Markup Language
@@ -8,10 +8,11 @@ HTML is a markup language for describing web pages.
 ##HTML Tags
 HTML tag looks like:
 
-(opening of tag) <tagname> Appropriate content </tagname> (closing of tag)
-#Not all HTML tags have closing tags(void Elements or singleton tags). such as <br>,<meta> etc.
+(opening of tag) &lt;tagname&gt; Appropriate content &lt;/tagname&gt; (closing of tag)
+###Not all HTML tags have closing tags(void Elements or singleton tags). such as <br>,<meta> etc.
 
 ##HTML Entities
 Some reserved characters and characters not available in our keyboard are defines as HTML entities.
-It looks like ###&nameOfEntity; or ###&#numberOfEntity; .
-Example:- To use copyright symbol in our webpage we have to use &copy; to get it printed on page. 
+It looks like 
+### &amp;nameOfEntity; or ### &amp;#numberOfEntity; .
+Example:- To use copyright symbol in our webpage we have to use &amp;copy; to get it printed on page. 
