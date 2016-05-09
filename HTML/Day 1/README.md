@@ -1,12 +1,12 @@
 #About HTML
-HTML is a markup language for describing web pages.
+HTML is a markup language for describing web pages. <br> 
 
-1) HTML stands for Hyper Text Markup Language
-2) HTML documents are described by HTML tags
-3) Each HTML tag describes different document content
+1) HTML stands for Hyper Text Markup Language <br>
+2) HTML documents are described by HTML tags <br>
+3) Each HTML tag describes different document content <br>
 
 ##HTML Tags
-HTML tag looks like:
+HTML tags look like this:-
 
 (opening of tag) &lt;tagname&gt; Appropriate content &lt;/tagname&gt; (closing of tag)
 ###Not all HTML tags have closing tags(void Elements or singleton tags). such as &lt;br&gt;,&lt;meta&gt; etc.
