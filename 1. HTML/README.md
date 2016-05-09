@@ -9,13 +9,13 @@ HTML is a markup language for describing web pages. <br>
 HTML tags look like this:-
 
 (opening of tag) &lt;tagname&gt; Appropriate content &lt;/tagname&gt; (closing of tag)
-###Not all HTML tags have closing tags(void Elements or singleton tags). such as &lt;br&gt;,&lt;meta&gt; etc.
+####Not all HTML tags have closing tags(void Elements or singleton tags). such as &lt;br&gt;,&lt;meta&gt; etc.
 You can find complete tag list [here](http://www.w3schools.com/tags).
 
 ##HTML Entities:-
 Some reserved characters and characters not available in our keyboard are defines as HTML entities.
 It looks like 
-### &amp;nameOfEntity; or &amp;#numberOfEntity; .
+#### &amp;nameOfEntity; or &amp;#numberOfEntity; .
 Example:- To use copyright symbol in our webpage we have to use &amp;copy; to get it printed on page. 
 You can get complete list of HTML Entities with their entity name and entity number [here](http://www.freeformatter.com/html-entities.html).
 
