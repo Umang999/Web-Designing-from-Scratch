@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+		<title> My First Web Page </title>
+
+	</head>
+	
+	<body>
+	
+<!-- a tag defines a hyperlink. Hyperlink is used to link one page to another page. 
+     href attribute indicates the link which will open on clicking the element -->
+
+		This is myPage.
+		Clicking on below link will led you to google.
+		<a href="https://www.google.com" >Take me to google. </a>	
+		
+<!-- Unvisited link is underlined and blue colored.
+     Visited link is underlined and purplr colored.
+     Active link(A link is considered active hyperlink from the time a user presses and releases 
+     the mouse button while clicking on link) is underlined and red colored.
+      -->
+	
+	</body>	
+
+
+</html>
