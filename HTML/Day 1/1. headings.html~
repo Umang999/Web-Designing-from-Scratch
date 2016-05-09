@@ -1,0 +1,57 @@
+<!-- The doctype declaration tells the browser that this page is written in HTML5.
+     This is a rule so that browser can recognize that in which language page is written. -->
+<!DOCTYPE html>
+<!-- Every thing in HTML goes in html tag. -->
+
+<html>
+
+<!-- In between opening and closing of head tag, there goes general information about the web page such as 
+     title of page, links to its style-sheets and metadata about page -->
+  <head>
+  
+<!-- meta tag provides metadata(information about data). Metadata contains page description, author, keywords(Not so much
+     people use this anymore as overusing this will be considered as Spam by search engines) and other info like how to 
+     display data on page or on how much time interval to update(refresh) webpage etc. It is not displayed in 
+     browser but it is used by browsers to render pages and by search engines(keywords).  -->
+  	 
+  	 <meta name="description" content="Web designing from scratch" />
+  	 <meta name="author" content="Umang" />
+  	 <meta name="keywords" content="html, web design" />
+
+<!-- title tag is very important part of your web page. It tells users and search engines what your page is about.
+     In most of the browsers it is shown in the title bar of window. -->    
+    
+    <title>My First Web Page</title>
+    
+  </head>
+
+<!-- header tag represents introductory content, logo or navigation links of your webpage. -->
+
+  <header>    
+    
+    <h1>This is a Header</h1>
+
+  </header>
+
+<!-- body tag contains all content such as text, pictures, video, audio, hyperlinks, list, tables etc.  -->
+  
+  <body>
+  
+<!-- h1 to h6 are heading tags.Browser shows item of them in bold letters. h1 defines most important heading(biggest letters) 
+     and h6 defines least important heading(smallest letters. -->  
+  
+  	 <h1>A Quick Brown Fox Jump Over the lazy Dog.</h1>
+    <h2>A Quick Brown Fox Jump Over the lazy Dog.</h2>
+    <h3>A Quick Brown Fox Jump Over the lazy Dog.</h3>
+    <h4>A Quick Brown Fox Jump Over the lazy Dog.</h4>
+    <h5>A Quick Brown Fox Jump Over the lazy Dog.</h5>
+    <h6>A Quick Brown Fox Jump Over the lazy Dog.</h6>
+
+  </body>
+  
+<!-- footer tag contains information such as site map, authority, copyright notice or contact info 
+     which is shown at the end of the page  -->  
+     
+  <footer>Copyright &copy Umang Parmar </footer>
+
+</html>
