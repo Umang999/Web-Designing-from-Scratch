@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+	
+		<style type="text/css">
+		
+			h1{
+				font-family: sans-serif;
+				color: blue;
+				//font-weight: bold;			
+			}	
+			h2{
+				font-family: Times;
+				color: brown;
+				//font-style: italic;			
+			}
+		</style>
+	
+	</head>
+
+	<body>
+			
+		<h1> This line is bold, blue in color and has Arial font. </h1>
+		<h2> This line is italic, brown in color and has Helvetica font. </h2>
+	</body>
+
+</html>
